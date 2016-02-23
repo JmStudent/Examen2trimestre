@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Polizas</string>
+
+    <string name="titulo">Calculadora de Póliza</string>
+    <string name="action_settings">Settings</string>
+    <string name="edad">Edad</string>
+    <string name="numHijos">Nº Hijos</string>
+    <string name="title_activity_actividad_dos">Polizas</string>
+    <string name="estado">Casado</string>
+    <string name="calcular">Calcular</string>
+    <string name="regresar">Regresar</string>
+    <string name="calculadora">calculadora</string>
+    <string name="borrar">Borrar</string>
+</resources>
